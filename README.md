@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jimmyjames177414/jimmyjames177414/main/docs/banner.png" alt="jimmyjames177414" width="100%">
+<img src="https://raw.githubusercontent.com/jimmyjames177414/jimmyjames177414/main/docs/banner.jpg" alt="jimmyjames177414" width="100%">
 </div>
 
 ## I build tools that measure what AI agents actually do
