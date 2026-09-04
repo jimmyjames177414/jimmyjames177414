@@ -5,7 +5,7 @@
 ## I build tools that measure what AI agents actually do
 
 Most tooling around coding agents helps them do more. These mostly help you find out what they
-*already did* — what context they needed, what they changed, what they broke, and what they
+*already did*: what context they needed, what they changed, what they broke, and what they
 quietly got wrong.
 
 Every one ships a `NOVELTY.md`: the prior-art search run **before** any code, including a table
@@ -18,7 +18,7 @@ gate. It is the most useful file in each repo.
 
 | | |
 |---|---|
-| **[rollcall](https://github.com/jimmyjames177414/rollcall)** | Which worktree does each running agent own — and which work does *nobody* own? Joins the OS process table, provider session data and git. Anthropic's docs say to remove leftover worktrees by hand; this finds them. |
+| **[rollcall](https://github.com/jimmyjames177414/rollcall)** | Which worktree does each running agent own, and which work does *nobody* own? Joins the OS process table, provider session data and git. Anthropic's docs say to remove leftover worktrees by hand; this finds them. |
 | **[sincelast](https://github.com/jimmyjames177414/sincelast)** | Your agent read that file four minutes ago. Another agent has changed it since. Read-dependency invalidation for independently-launched sessions. |
 | **[claude-memory-atlas](https://github.com/jimmyjames177414/claude-memory-atlas)** | Renders a directory of Claude Code auto-memory files as one offline interactive knowledge graph. |
 
