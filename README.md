@@ -1,6 +1,9 @@
 <div align="center">
-<img src="https://raw.githubusercontent.com/jimmyjames177414/jimmyjames177414/main/docs/banner.jpg" alt="jimmyjames177414" width="100%">
+<img src="https://raw.githubusercontent.com/jimmyjames177414/jimmyjames177414/main/docs/banner.jpg" alt="James Robert Miller (jimmyjames177414)" width="100%">
 </div>
+
+**James Robert Miller** · AI architect at Accenture · Greater Chicago Area
+[jimmyjames177414.github.io](https://jimmyjames177414.github.io) · [LinkedIn](https://www.linkedin.com/in/james-miller-b6227059/) · [jimmyjames177414@gmail.com](mailto:jimmyjames177414@gmail.com)
 
 ## I build tools that measure what AI agents actually do
 
@@ -51,7 +54,6 @@ gate. It is the most useful file in each repo.
 | | |
 |---|---|
 | **[worker-king](https://github.com/jimmyjames177414/worker-king)** | Always-on AI desktop assistant for Windows. Listens, and delegates real work to Claude Code. |
-| **[local-transcription](https://github.com/jimmyjames177414/local-transcription)** | Fully offline Windows transcription with speaker memory, and an optional live meeting AI. No cloud, ever. |
 | **[claude-roundtable](https://github.com/jimmyjames177414/claude-roundtable)** | Two Claude personas argue a topic adversarially, streamed live in your terminal. |
 
 ---
