@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/jimmyjames177414/jimmyjames177414/main/docs/banner.jpg" alt="James Robert Miller (jimmyjames177414)" width="100%">
 </div>
 
-**James Robert Miller** · AI architect at Accenture · Greater Chicago Area
+**James Robert Miller** · AI architect at Accenture · Greater Chicago Area<br>
 [jimmyjames177414.github.io](https://jimmyjames177414.github.io) · [LinkedIn](https://www.linkedin.com/in/james-miller-b6227059/) · [jimmyjames177414@gmail.com](mailto:jimmyjames177414@gmail.com)
 
 ## I build tools that measure what AI agents actually do
